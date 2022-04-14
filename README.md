@@ -4,7 +4,7 @@
 
 `gitswitch` now uses a configuration file and has been merged into [phxutils](https://github.com/phx/phxutils).
 
-The new location is [https://github.com/phx/phxutils/gitswitch](https://github.com/phx/phxutils/gitswitch).
+The new location is [https://github.com/phx/phxutils/tree/master/gitswitch](https://github.com/phx/phxutils/tree/master/gitswitch).
 
 ## Old information:
 
