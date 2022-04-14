@@ -1,5 +1,13 @@
 # gitswitch
 
+## This repository is no longer maintained.
+
+`gitswitch` now uses a configuration file and has been merged into [phxutils](https://github.com/phx/phxutils).
+
+The new location is [https://github.com/phx/phxutils/gitswitch](https://github.com/phx/phxutils/gitswitch).
+
+## Old information:
+
 Dependencies:
 
 - `/bin/sh`
